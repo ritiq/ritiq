@@ -16,8 +16,6 @@
 - C
 - HTML
 - CSS
-- Git
-- GitHub
 - VS Code
 
 ## 📌 Current Focus
