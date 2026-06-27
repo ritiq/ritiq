@@ -1,6 +1,6 @@
 # Hi there, I'm Ritik Ahire 👋
 
-🎓 BCA 3rd Year Student at CK Pithawala College (VNSGU), Surat, India.
+🎓 BCA 3rd Year Student...
 
 💻 Aspiring Software Developer passionate about building real-world projects and continuously learning new technologies.
 
@@ -26,11 +26,5 @@
 - Learning Web Development
 - Exploring AI & Machine Learning
 
-## 🎯 Goals for 2026
-- Build 20+ quality projects
-- Contribute to Open Source
-- Get a Software Development Internship
-- Become a Full-Stack Developer
-
 ## 📫 Connect with Me
-- LinkedIn: (Add your LinkedIn profile here)
+- LinkedIn:
