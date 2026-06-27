@@ -1,8 +1,8 @@
-## # Hi, I'm Ritik Ahire 👋
+# Hi there, I'm Ritik Ahire 👋
 
-🎓 BCA 3rd Year Student at CK Pithawala College (VNSGU)
+🎓 BCA 3rd Year Student at CK Pithawala College (VNSGU), Surat, India.
 
-💻 Passionate about Software Development, Web Development, and AI.
+💻 Aspiring Software Developer passionate about building real-world projects and continuously learning new technologies.
 
 ## 🚀 Currently Learning
 - Python
@@ -11,7 +11,7 @@
 - JavaScript
 - Git & GitHub
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 - Python
 - C
 - HTML
@@ -20,26 +20,17 @@
 - GitHub
 - VS Code
 
-## 🎯 2026 Goals
-- Build 20+ Projects
-- Learn AI & Machine Learning
+## 📌 Current Focus
+- Building Python projects
+- Improving problem-solving skills
+- Learning Web Development
+- Exploring AI & Machine Learning
+
+## 🎯 Goals for 2026
+- Build 20+ quality projects
 - Contribute to Open Source
 - Get a Software Development Internship
+- Become a Full-Stack Developer
 
 ## 📫 Connect with Me
-LinkedIn: (Add your LinkedIn profile here)
-
-<!--
-**ritiq/ritiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: (Add your LinkedIn profile here)
