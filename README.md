@@ -25,6 +25,6 @@
 - Exploring AI & Machine Learning
 
 ## 📫 Connect with Me
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/in/ritik-ahire/
 - Instagram: 
 -  
