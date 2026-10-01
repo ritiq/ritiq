@@ -26,5 +26,5 @@
 
 ## 📫 Connect with Me
 - LinkedIn:
-- Instagram: t.ritik.07
+- Instagram: 
 -  
